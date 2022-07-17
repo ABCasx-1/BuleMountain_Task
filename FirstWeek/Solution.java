@@ -1,4 +1,3 @@
-```java
 package homework;
 
 import java.util.ArrayList;
@@ -31,4 +30,3 @@ public class Solution {
         return result;
     }
 }
-```
