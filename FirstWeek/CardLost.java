@@ -1,4 +1,3 @@
-```java
 package homework;
 
 public class CardLost extends Lost {
