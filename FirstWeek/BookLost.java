@@ -22,4 +22,3 @@ public class BookLost extends Lost {
         return "失物名称:" + bookName + " 失物地点:" + super.getPlace() + "  丢失时间:" + super.getTime();
     }
 }
-```
