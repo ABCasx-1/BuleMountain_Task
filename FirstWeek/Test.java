@@ -1,4 +1,3 @@
-```java
 package homework;
 
 import java.util.Arrays;
@@ -31,4 +30,3 @@ public abstract class Test<testArray> {
     }
 
 }
-```
